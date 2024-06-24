@@ -1,6 +1,7 @@
 # Weather Forcast
 
 #Used openweather API to get the required data.
+
 #Use the app LIVE here: https://weather-forecast-web-z236.onrender.com/
 
 #How to run the app
