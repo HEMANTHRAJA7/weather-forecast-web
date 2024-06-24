@@ -17,4 +17,4 @@
 2. Either fill in the LATITUDE and LONGITUDE of your location or provide the City/Town name.
 3. Click "FORECAST" to access the data.
 
-4. # Note: The Website is not responsive.
+# *Note: The Website is not responsive.
